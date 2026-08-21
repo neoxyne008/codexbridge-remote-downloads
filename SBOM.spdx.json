@@ -1,7 +1,7 @@
 ﻿{
     "name":  "CodexBridge-0.1.0",
     "creationInfo":  {
-                         "created":  "2026-08-21T15:57:19Z",
+                         "created":  "2026-08-21T16:16:42Z",
                          "creators":  [
                                           "Tool: CodexBridge-package-release.ps1"
                                       ]
@@ -9,7 +9,7 @@
     "SPDXID":  "SPDXRef-DOCUMENT",
     "spdxVersion":  "SPDX-2.3",
     "dataLicense":  "CC0-1.0",
-    "documentNamespace":  "https://github.com/neoxyne008/codexbridge-remote-downloads/spdx/0.1.0/1c32e952-6897-4380-b4b1-dd452c3ab117",
+    "documentNamespace":  "https://github.com/neoxyne008/codexbridge-remote-downloads/spdx/0.1.0/2c98659c-79d8-4f83-98cd-eb9fe77e843a",
     "packages":  [
                      {
                          "filesAnalyzed":  false,
