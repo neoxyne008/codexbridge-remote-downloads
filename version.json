@@ -1,8 +1,8 @@
-﻿{
-    "changelog":  "PremiÃ¨re version publiqueÂ : LAN/Tailscale, pairing QR, threads paginÃ©s, streaming, approbations et reprise.",
-    "versionName":  "0.1.0",
-    "publishedAt":  "2026-08-21T16:16:42Z",
-    "sha256":  "70c8ef04da8f3e9c95de0a8f67bd252d295046d58e0499f53a94014901b3826b",
-    "versionCode":  1,
-    "apkUrl":  "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk"
+{
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk",
+  "publishedAt": "2026-08-21T16:35:39Z",
+  "changelog": "Première version publique : LAN/Tailscale, pairing QR, threads paginés, streaming, approbations et reprise.",
+  "versionCode": 1,
+  "sha256": "22dcc59388026b2f9b00528bb8d35f9301b2fd63c9304f90f90c8c1f69829e01"
 }
