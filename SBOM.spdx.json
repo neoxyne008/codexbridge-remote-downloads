@@ -1,0 +1,70 @@
+{
+  "creationInfo": {
+    "created": "2026-08-21T15:53:49Z",
+    "creators": [
+      "Tool: CodexBridge-package-release.ps1"
+    ]
+  },
+  "dataLicense": "CC0-1.0",
+  "name": "CodexBridge-0.1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://github.com/neoxyne008/codexbridge-remote-downloads/spdx/0.1.0/c6d60440-432f-4b4a-9fa2-494580f578b7",
+  "spdxVersion": "SPDX-2.3",
+  "packages": [
+    {
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "filesAnalyzed": false,
+      "downloadLocation": "NOASSERTION",
+      "version": "0.1.0",
+      "name": "CodexBridge Host",
+      "copyrightText": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-CodexBridge-Host",
+      "supplier": "Organization: CodexBridge"
+    },
+    {
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "filesAnalyzed": false,
+      "downloadLocation": "NOASSERTION",
+      "version": "8.0.3",
+      "name": "Microsoft.Data.Sqlite",
+      "copyrightText": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-Microsoft.Data.Sqlite",
+      "supplier": "Organization: Microsoft"
+    },
+    {
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "filesAnalyzed": false,
+      "downloadLocation": "NOASSERTION",
+      "version": "0.1.0",
+      "name": "CodexBridge Remote",
+      "copyrightText": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-CodexBridge-Remote",
+      "supplier": "Organization: CodexBridge"
+    },
+    {
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "filesAnalyzed": false,
+      "downloadLocation": "NOASSERTION",
+      "version": "8.10.1",
+      "name": "Android Gradle Plugin",
+      "copyrightText": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-Android-Gradle-Plugin",
+      "supplier": "Organization: Google"
+    },
+    {
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "filesAnalyzed": false,
+      "downloadLocation": "NOASSERTION",
+      "version": "2.1.20",
+      "name": "Kotlin",
+      "copyrightText": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-Kotlin",
+      "supplier": "Organization: JetBrains"
+    }
+  ]
+}
