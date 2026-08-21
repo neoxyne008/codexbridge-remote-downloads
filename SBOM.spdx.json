@@ -1,70 +1,70 @@
 {
   "SPDXID": "SPDXRef-DOCUMENT",
+  "dataLicense": "CC0-1.0",
   "creationInfo": {
+    "created": "2026-08-21T22:04:14Z",
     "creators": [
       "Tool: CodexBridge-package-release.ps1"
-    ],
-    "created": "2026-08-21T20:17:11Z"
+    ]
   },
-  "documentNamespace": "https://github.com/neoxyne008/codexbridge-remote-downloads/spdx/0.2.0/ac4a68c1-e9ce-49cc-ac33-e8463475dd3a",
+  "spdxVersion": "SPDX-2.3",
+  "documentNamespace": "https://github.com/neoxyne008/codexbridge-remote-downloads/spdx/0.3.0/5c780cbe-1587-4e8b-88a7-12b046175984",
+  "name": "CodexBridge-0.3.0",
   "packages": [
     {
       "supplier": "Organization: CodexBridge",
-      "SPDXID": "SPDXRef-Package-CodexBridge-Host",
       "downloadLocation": "NOASSERTION",
       "name": "CodexBridge Host",
-      "version": "0.2.0",
-      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-CodexBridge-Host",
       "copyrightText": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "licenseConcluded": "NOASSERTION"
+      "filesAnalyzed": false,
+      "version": "0.3.0",
+      "licenseDeclared": "NOASSERTION"
     },
     {
       "supplier": "Organization: Microsoft",
-      "SPDXID": "SPDXRef-Package-Microsoft.Data.Sqlite",
       "downloadLocation": "NOASSERTION",
       "name": "Microsoft.Data.Sqlite",
-      "version": "8.0.3",
-      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "SPDXID": "SPDXRef-Package-Microsoft.Data.Sqlite",
       "copyrightText": "NOASSERTION",
-      "licenseDeclared": "MIT",
-      "licenseConcluded": "MIT"
+      "filesAnalyzed": false,
+      "version": "8.0.3",
+      "licenseDeclared": "MIT"
     },
     {
       "supplier": "Organization: CodexBridge",
-      "SPDXID": "SPDXRef-Package-CodexBridge-Remote",
       "downloadLocation": "NOASSERTION",
       "name": "CodexBridge Remote",
-      "version": "0.2.0",
-      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "SPDXID": "SPDXRef-Package-CodexBridge-Remote",
       "copyrightText": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "licenseConcluded": "NOASSERTION"
+      "filesAnalyzed": false,
+      "version": "0.3.0",
+      "licenseDeclared": "NOASSERTION"
     },
     {
       "supplier": "Organization: Google",
-      "SPDXID": "SPDXRef-Package-Android-Gradle-Plugin",
       "downloadLocation": "NOASSERTION",
       "name": "Android Gradle Plugin",
-      "version": "8.10.1",
-      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "SPDXID": "SPDXRef-Package-Android-Gradle-Plugin",
       "copyrightText": "NOASSERTION",
-      "licenseDeclared": "Apache-2.0",
-      "licenseConcluded": "Apache-2.0"
+      "filesAnalyzed": false,
+      "version": "8.10.1",
+      "licenseDeclared": "Apache-2.0"
     },
     {
       "supplier": "Organization: JetBrains",
-      "SPDXID": "SPDXRef-Package-Kotlin",
       "downloadLocation": "NOASSERTION",
       "name": "Kotlin",
-      "version": "2.1.20",
-      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "SPDXID": "SPDXRef-Package-Kotlin",
       "copyrightText": "NOASSERTION",
-      "licenseDeclared": "Apache-2.0",
-      "licenseConcluded": "Apache-2.0"
+      "filesAnalyzed": false,
+      "version": "2.1.20",
+      "licenseDeclared": "Apache-2.0"
     }
-  ],
-  "dataLicense": "CC0-1.0",
-  "spdxVersion": "SPDX-2.3",
-  "name": "CodexBridge-0.2.0"
+  ]
 }
