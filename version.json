@@ -1,8 +1,8 @@
 {
+  "sha256": "34dec0108d53f8257e269a6d252237785eeb9fdc1d6b1a7a73e9c08c712c8094",
+  "publishedAt": "2026-08-21T22:34:27Z",
+  "versionCode": 7,
   "apkUrl": "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk",
-  "sha256": "57ca429c633f74b5a4c3dd11e66b39644cd19e69eec2c3172fdf9e85d43b9fcc",
-  "versionCode": 6,
-  "publishedAt": "2026-08-21T22:04:14Z",
-  "versionName": "0.3.0",
-  "changelog": "Conversations reprises sans erreur thread not found, journaux durables, erreurs temporaires et ajout de captures ou photos."
+  "changelog": "Ouverture des conversations sans conflit de rédacteur et création automatique de branche mobile lors des envois.",
+  "versionName": "0.3.1"
 }
