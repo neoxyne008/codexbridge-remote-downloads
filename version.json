@@ -1,8 +1,8 @@
 {
+  "publishedAt": "2026-08-21T16:55:19Z",
   "apkUrl": "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk",
-  "publishedAt": "2026-08-21T16:41:54Z",
+  "changelog": "Correctif Android du décodage de priorité après connexion et démarrage Windows plus robuste.",
   "versionName": "0.1.1",
-  "sha256": "aaf092f93c3520963027ebec341dbcc71f0abd14eb21cad9b0082e649ccdc6a1",
-  "versionCode": 2,
-  "changelog": "Correctif Android du décodage de priorité après connexion et démarrage Windows plus robuste."
+  "sha256": "a69465e48a7b4721259bef5723d55ee4151008f5a66b02b194b8d85ddfe35a48",
+  "versionCode": 2
 }
