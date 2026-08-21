@@ -39,7 +39,7 @@ Le protocole mobile est stable et distinct du JSON-RPC Codex. Chaque session log
 5. Installez l’APK, ouvrez-le, puis scannez ce QR.
 6. Vérifiez que l’empreinte SHA‑256 affichée sur les deux appareils est identique.
 
-Pour le LAN, relancez le Host avec `--lan --advertise NOM_OU_IP_DU_PC`. Par défaut il écoute uniquement sur `localhost`. Pour Tailscale, utilisez l’IPv4 du tailnet dans `--advertise` et limitez le pare-feu à l’interface Tailscale.
+Le Tray sélectionne automatiquement une IPv4 privée joignable et lance explicitement le Host en mode LAN. Le serveur lancé seul écoute uniquement sur `localhost`; utilisez alors `--lan --advertise NOM_OU_IP_DU_PC`. Pour Tailscale, utilisez l’IPv4 du tailnet dans `--advertise` et limitez le pare-feu à l’interface Tailscale.
 
 ## Capacités MVP
 
