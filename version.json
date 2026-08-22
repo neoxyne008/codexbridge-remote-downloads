@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-08-22T00:32:54Z",
-  "sha256": "81315cf35b5041af33c417f1c8f97da427a70832da2fe10cb394b66903154dcc",
-  "changelog": "Derniers messages affichés dans le bon ordre, retour automatique en bas et bouton pour actualiser la conversation.",
-  "versionName": "0.3.2",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk"
+  "publishedAt": "2026-08-22T01:06:03Z",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/neoxyne008/codexbridge-remote-downloads/releases/latest/download/CodexBridge-Remote.apk",
+  "sha256": "d5b6dbc15b7760b8db6de923beb17208fcaaeff60abf60cadfb4685d460e3a53",
+  "changelog": "Aucune copie automatique des conversations et suppression des messages affichés en double.",
+  "versionName": "0.3.3"
 }
